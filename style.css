@@ -1,0 +1,14 @@
+h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 0.5em;
+}
+
+ul {
+    margin-top: 0;
+    padding-left: 2em;
+}
+
+@media (max-width: 600px) {
+    body, header, footer, main {
+        font-size: 0.9em;
+    }
+}
