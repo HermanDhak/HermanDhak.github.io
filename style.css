@@ -23,6 +23,11 @@ ul {
     white-space: nowrap;
 }
 
+.job-title {
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+}
+
 body {
     font-family: system-ui, sans-serif;
     padding: 0 1em;
